@@ -1,0 +1,13 @@
+configuration {
+    terminal: "alacritty";
+    drun-match-fields: "name, generic, categories";
+    display-drun: "drun";
+    display-window: "windows";
+    show-icons: true;
+    icon-theme: "Papirus-Dark-Maia";
+    modi: "drun,window";
+    font: "Noto Sans Medium 12";
+    sidebar-mode: true;
+}
+
+@theme "nord"
